@@ -13,6 +13,7 @@ Bullfrag
 Atomix
 Gutrot
 Whampire
+<<<<<<< HEAD
  Toepick
 
                     branch tannnnnnnnnnnnnnnn
@@ -20,5 +21,12 @@ Whampire
 
 
 
-humangasour
+humangaso ur
 Swampfire
+=======
+Toepick
+             
+
+               
+                        NEWWWWWWWWWWW
+>>>>>>> main
