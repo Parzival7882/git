@@ -1,14 +1,1 @@
 print ("jk")
-
-
-
-
-
-
-
-
-
-
-
-print("BUG")
-print("NEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW")
